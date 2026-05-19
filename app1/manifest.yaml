@@ -15,7 +15,7 @@ spec:
       app: app1
   template:
     metadata:
-      selector:
+      labels:
         purpose: ingress-demo
         project: roboshop
         app: app1
