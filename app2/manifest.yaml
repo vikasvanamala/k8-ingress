@@ -53,7 +53,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-  - host: "vicky08.fun"
+  - host: "app2.vicky08.fun"
     http:
       paths:
       - pathType: Prefix
